@@ -1,6 +1,6 @@
 body{
 	margin:0px;
-	background:#000;
+	background:#fff;
 	
 }
 a{
@@ -54,4 +54,9 @@ nav{
 }
 .barra-header{
 	height:62px;
+}
+
+h1
+{
+text-align: center
 }
